@@ -1,4 +1,4 @@
-# README #
+# Information Retrieval Project #
 
 This repository contains the code for the final project of the Information retrieval course. University of Padua, Italy, academic year 2017-2018.
 
